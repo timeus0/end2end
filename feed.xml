@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jovanny Munoz</title>
+    <description>Portfolio website for Jovanny Munoz</description>
+    <link>https://timeus0.github.io/end2end//end2end/</link>
+    <atom:link href="https://timeus0.github.io/end2end//end2end/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 31 Jan 2019 12:17:49 -0500</pubDate>
+    <lastBuildDate>Thu, 31 Jan 2019 12:17:49 -0500</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>New blog post!</title>
+        <description>&lt;p&gt;Site is finally up and running, looking forward to having a spot for new projects! Stay tuned!&lt;/p&gt;
+</description>
+        <pubDate>Wed, 30 Jan 2019 17:51:55 -0500</pubDate>
+        <link>https://timeus0.github.io/end2end//end2end/new-blog-post</link>
+        <guid isPermaLink="true">https://timeus0.github.io/end2end//end2end/new-blog-post</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
